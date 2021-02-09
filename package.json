@@ -1,0 +1,20 @@
+{
+  "name": "tiagoinsany.js",
+  "version": "1.0.0",
+  "description": "Função para gerar senhas e retorna em formato `String` no seu projeto, veja os passos para o uso da Função.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TiaGoiNsaNy/tiagoinsany.js.git"
+  },
+  "keywords": ["gerador", "senha"],
+  "author": "TiaGoiNsaNy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TiaGoiNsaNy/tiagoinsany.js/issues"
+  },
+  "homepage": "https://github.com/TiaGoiNsaNy/tiagoinsany.js#readme"
+}
